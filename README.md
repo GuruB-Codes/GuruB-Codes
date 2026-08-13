@@ -37,6 +37,12 @@ IoT-based smart agriculture solution for monitoring and improving farming.
 ### 📱 Habit Tracker
 Mobile application for managing and tracking daily habits and targets.
 
+### 🌊 Ripple
+Personal finance management web application for tracking income and expenses, with a dashboard, transaction history, financial summaries, category-wise spending, and weekly/monthly analytics.
+
+### 🚀 Nexora
+Productivity and study planning application that converts monthly plans into daily actionable tasks and tracks daily progress.
+
 ---
 
 ## 🏆 Achievements
