@@ -70,8 +70,8 @@ Cybersecurity and Software solutions.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GuruB-Codes&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuruB-Codes&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GuruB-Codes&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=GuruB-Codes&theme=tokyonight" />
 </p>
 
 ---
