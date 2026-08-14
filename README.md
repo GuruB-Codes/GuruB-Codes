@@ -69,11 +69,16 @@ Cybersecurity and Software solutions.
 
 ## 📊 GitHub Stats
 
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GuruB-Codes&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=GuruB-Codes&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GuruB-Codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruB-Codes&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=GuruB-Codes&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 💻 Coding Profiles
