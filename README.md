@@ -48,6 +48,7 @@ I am a passionate **Computer Science & Technology student** focused on building 
   </tr>
 </table>
 
+## Other Projects
 
 ### 🌱 AgriTech
 IoT-based smart agriculture solution for monitoring and improving farming.
