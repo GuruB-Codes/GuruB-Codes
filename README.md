@@ -67,8 +67,6 @@ Cybersecurity and Software solutions.
 
 ---
 
-## 📊 GitHub Stats
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
