@@ -29,13 +29,25 @@ I am a passionate **Computer Science & Technology student** focused on building 
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Solutions Ecosystem
 
-### 🛡️ Jagruthi
-Women Safety IoT + Mobile Application with SOS, GPS, GSM and LoRa emergency communication.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Threat Rakshaka</h3>
+      <img src="https://img.shields.io/badge/Domain-Cybersecurity-red?style=flat-square" alt="Domain" />
+      <p>A cybersecurity platform for APK risk assessment, threat analysis, and reporting, helping identify potentially malicious Android applications.</p>
+      <p><b>Tech Stack:</b> Android, Java, React.js, Supabase, MobSF</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚨 Jagruthi</h3>
+      <img src="https://img.shields.io/badge/Domain-Women%20Safety-blueviolet?style=flat-square" alt="Domain" />
+      <p>An IoT-powered women safety system designed for proactive emergency assistance using location tracking, geofencing, and multi-layer emergency communication.</p>
+      <p><b>Tech Stack:</b> HTML, CSS, JavaScript, ESP32, GPS, GSM, LoRa, Supabase</p>
+    </td>
+  </tr>
+</table>
 
-### 🔐 APK Guard
-AI-powered APK security and fraud detection platform with APK scanning, risk analysis and police dashboard.
 
 ### 🌱 AgriTech
 IoT-based smart agriculture solution for monitoring and improving farming.
