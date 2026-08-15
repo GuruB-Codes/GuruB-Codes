@@ -8,14 +8,16 @@
   <img src="https://img.shields.io/badge/Hackathon%20Winner-Namma%20Suraksha%202.0-gold?style=for-the-badge&logo=hackaday&logoColor=white" />
 </p>
 
-## 🚀 About Me
+##  💫 About Me
 
-- 🎓 Computer Science Engineering Student
-- 💻 Interested in Full Stack & Java Development
-- 🤖 Exploring AI & Machine Learning
-- 🔐 Interested in Cybersecurity
-- 🔌 Building IoT-based solutions
-- 🏆 Hackathon Winner & Participant
+I am a passionate **Computer Science & Technology student** focused on building secure and impactful solutions using **Cybersecurity, IoT, Mobile Applications, and Software Development**.
+
+* 🚀 **Hackathon Innovator:** 1st Place winner at **Protonex 2026** and **Namma Suraksha 2.0**.
+* 🛡️ **Cybersecurity Enthusiast:** Building security solutions like **APK Guard / Threat Rakshaka** for APK risk analysis and threat detection.
+* 🚨 **Tech for Good:** Developing **Jagruthi**, an IoT-based women safety system using GPS, GSM, LoRa, and geofencing.
+* 🎤 **Community Mentor:** Passionate about mentoring students and sharing technical knowledge.
+* 💻 **Developer:** Skilled in **C++, java, JavaScript, React.js, Android, Supabase, and IoT technologies**.
+
 
 ---
 
