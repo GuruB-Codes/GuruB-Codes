@@ -3,6 +3,10 @@
 ### 💻 Computer Science Engineering Student | Full Stack | AI | IoT | Cybersecurity
 
 ---
+<p align="left">
+  <img src="https://img.shields.io/badge/Hackathon%20Winner-Protonex%202026-gold?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hackathon%20Winner-Namma%20Suraksha%202.0-gold?style=for-the-badge&logo=hackaday&logoColor=white" />
+</p>
 
 ## 🚀 About Me
 
