@@ -74,8 +74,8 @@ National Level Hackathon – IEEE Presidency University
 🏅 **1st Consolation – Namma Suraksha 2.0**  
 National Level Hackathon – Presidency University & CID
 
-🏅 **1st Consolation – PES University Hackathon**  
-PES University Bangalore
+🏅 **1st Consolation – CIDECODE Hackathon 2026**  
+(CCITR) and PES University Bangalore
 
 ---
 
